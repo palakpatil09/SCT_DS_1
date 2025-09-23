@@ -10,5 +10,3 @@ Airbnb Data Analytics: Market Trends & Insights
 📅 Review Analysis – studied review activity to understand seasonal demand and host engagement.
 🔹 Visualized findings using Python (Pandas, Matplotlib, Seaborn) to highlight factors influencing Airbnb pricing, demand, and host activity.
 
-🏷️ Hashtags:
-#Python #DataAnalytics #EDA #DataVisualization #Airbnb #DataScience #Insights
